@@ -11,7 +11,7 @@
 ╚═╝  ╚═╝╚══════╝╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝ ╚═════╝
 ```
 
-### Repertório técnico de um desenvolvedor em evolução contínua.
+### Repertório técnico de um desenvolvedor em evolução contínua. Obrigado por passar por aqui.
 
 <br/>
 
@@ -30,15 +30,18 @@
 
 Este não é um repositório de projetos acabados.
 
-É o registro vivo do meu processo de evolução técnica - cada pasta representa um conceito estudado, um curso concluído, um problema resolvido. O objetivo é documentar não só o resultado, mas o raciocínio por trás de cada aprendizado.
+É o registro vivo do meu processo de evolução técnica, cada pasta representa um conceito estudado, um curso concluído, um problema resolvido. O objetivo é documentar não só o resultado, mas o raciocínio por trás de cada aprendizado.
 
-Se você está aqui como recrutador, leia a estrutura de pastas. Ela diz mais sobre como eu organizo conhecimento do que qualquer currículo.
+Se você está aqui como recrutador, fique à vontade para explorar a estrutura de pastas. Se você é um dev, espero que encontre algo útil ou que te inspire.
 
 ---
 
 ## Contexto
 
-Desenvolvedor Frontend com 4+ anos de experiência prática em HTML, CSS, JavaScript, jQuery, SCSS, React, Vue e Angular 2+. Atualmente trabalhando com PHP e Yii 1.13 em arquitetura MVC, em transição deliberada para me tornar um profissional Fullstack.
+Desenvolvedor Frontend com 4+ anos de experiência prática em HTML, CSS, JavaScript, jQuery, SCSS, React, Vue e Angular. </br>
+Atualmente trabalhando com PHP e Yii 1.13 em arquitetura MVC, em transição para me tornar um profissional Fullstack.
+
+Se quiser saber mais sobre minha trajetória ou trocar uma ideia, pode me chamar. Estou sempre aberto a conversas.
 
 ---
 
@@ -78,7 +81,7 @@ repertorio/
 
 ## Como cada pasta é organizada
 
-Todo curso ou projeto dentro deste repositório segue o mesmo padrão:
+Todo curso ou projeto dentro deste repositório segue o mesmo padrão, para que seja fácil de navegar independente do conteúdo:
 
 ```
 nome-do-curso/
@@ -107,8 +110,10 @@ Manutenção      →  Angular 2+ · React · Vue
 
 ## Por que documentar assim?
 
-Documentar é parte do aprendizado. Cada pasta aqui existe porque foi estudada, praticada e registrada. </br>
-Sinta-se à vontade para explorar, questionar ou se inspirar no que encontrar por aqui. </br>
+Documentar é parte do aprendizado. Cada pasta aqui existe porque foi estudada, praticada e registrada.
+
+Sinta-se à vontade para explorar, questionar ou se inspirar no que encontrar por aqui.
+
 Se algo aqui for útil pra você, fico feliz. Se quiser trocar ideia, me chama.
 
 ---
