@@ -1,15 +1,13 @@
 <div align="center">
 
-<br/>
-
-```
+<pre>
 ██████╗ ███████╗██████╗ ███████╗██████╗ ████████╗ ██████╗ ██████╗ ██╗ ██████╗
 ██╔══██╗██╔════╝██╔══██╗██╔════╝██╔══██╗╚══██╔══╝██╔═══██╗██╔══██╗██║██╔═══██╗
 ██████╔╝█████╗  ██████╔╝█████╗  ██████╔╝   ██║   ██║   ██║██████╔╝██║██║   ██║
 ██╔══██╗██╔══╝  ██╔═══╝ ██╔══╝  ██╔══██╗   ██║   ██║   ██║██╔══██╗██║██║   ██║
 ██║  ██║███████╗██║     ███████╗██║  ██║   ██║   ╚██████╔╝██║  ██║██║╚██████╔╝
 ╚═╝  ╚═╝╚══════╝╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝ ╚═════╝
-```
+</pre>
 
 ### Repertório técnico de um desenvolvedor em evolução contínua. Obrigado por passar por aqui.
 
@@ -19,8 +17,6 @@
 ![Início](https://img.shields.io/badge/início-abril_2026-3b82f6?style=flat-square)
 ![Foco atual](https://img.shields.io/badge/foco_atual-backend_%26_fullstack-f59e0b?style=flat-square)
 ![Stack](https://img.shields.io/badge/stack-PHP_%7C_Yii_%7C_JS_%7C_Angular-8b5cf6?style=flat-square)
-
-<br/>
 
 </div>
 
