@@ -1,37 +1,38 @@
 <?php
-
 class Usuario {
     private $id;
     private $nome;
     private $email;
     private $senha;
-    private $usuarios = [
+    private $usuarios = [];
+
+    public function __construct($nome = null, $email = null, $senha = null)
+    {
+        $this->usuarios = [
             [
                 'id' => 1,
                 'nome' => 'Lucas',
                 'email' => 'lucas@example.com',
-                'senha' => 'senha123',
+                'senha' => password_hash('senha123', PASSWORD_DEFAULT),
             ],
             [
                 'id' => 2,
                 'nome' => 'Nina',
                 'email' => 'Nina@example.com',
-                'senha' => 'senha456',
+                'senha' => password_hash('senha456', PASSWORD_DEFAULT),
             ],
             [
                 'id' => 3,
                 'nome' => 'Pequena',
                 'email' => 'pequena@example.com',
-                'senha' => 'senha789',
+                'senha' => password_hash('senha789', PASSWORD_DEFAULT),
             ]
-    ];
-
-    public function __construct($nome = null, $email = null, $senha = null)
-    {
+        ];
         $this->id = count($this->usuarios) + 1;
         $this->nome = $nome;
         $this->email = $email;
         $this->senha = $senha;
+
     }
 
     public function getUsuarios()
@@ -46,9 +47,8 @@ class Usuario {
                 'email' => $this->email,
                 'senha' => $this->senha
             ];
-            return; true;
+            return true;
         }
-        echo "Erro: Todos os campos são obrigatórios.";
         return false;
     }
 }
